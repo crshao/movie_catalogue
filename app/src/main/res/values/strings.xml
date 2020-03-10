@@ -1,0 +1,207 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="tabtext1">Movies</string>
+    <string name="tabtext2">TV Shows</string>
+    <string name="change_language_setting">Change Language Setting</string>
+    <string name="content_description">Berisi gambar poster dari film yang ditampilkan</string>
+    <string name="deskripsi">Ini Deskripsi</string>
+    <string name="judul">Ini Judul</string>
+
+    <string-array name="movie_title">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avenger: Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Creed</item>
+        <item>Deadpool</item>
+        <item>How To Train Your Dragon</item>
+        <item>Dragonball</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
+        <item>Mary Poppins Return</item>
+        <item>Mortal Engine</item>
+        <item>Preman Pensiun</item>
+        <item>Robinhood</item>
+        <item>Spiderman</item>
+        <item>The Girl In The Spider Web</item>
+        <item>The Mule</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="movie_description">
+        <item>It stars Cooper, Lady Gaga, Dave Chappelle, Andrew Dice Clay, and Sam Elliott, and follows a hard-drinking musician (Cooper) who discovers and falls in love with a young singer (Gaga). It is the third remake of the original 1937 film, after the 1954 musical and the 1976 musical.</item>
+        <item>Arthur Curry is Aquaman, an adventurer who is half-human and half-Atlantean. This gives him a variety of powers including superhuman strength, telepathic control over marine life, and the ability to survive both in water and on land. He belongs to the royal family of Atlantis, and normally acts as their king</item>
+        <item>A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment, the fate of Earth and existence has never been more uncertain.</item>
+        <item>Bird Box is a 2018 American post-apocalyptic horror thriller film directed by Susanne Bier from a screenplay written by Eric Heisserer, and based on the 2014 novel of the same name by Josh Malerman</item>
+        <item>Bohemian Rhapsody is a foot-stomping celebration of Queen, their music and their extraordinary lead singer Freddie Mercury. Freddie defied stereotypes and shattered convention to become one of the most beloved entertainers on the planet.</item>
+        <item>The Bumblebee is a widely distributed social insect know for its ability to collect nectar from flowers and pollinate plants. Bumblebees are large yellow and black flying insects with a distinct buzz. There is variation in coloration among bumblebees and some species have bands of red, yellow and black.</item>
+        <item>Creed II. “Creed II” falls victim to the sins of sequelitis—its bigger, louder and more grandiose than its predecessor—yet manages to right itself by not losing focus on the humanity of its central characters.</item>
+        <item>Deadpool, whose real name is Wade Wilson, is a disfigured mercenary with the superhuman ability of an accelerated healing factor and physical prowess.</item>
+        <item>Long ago up North on the Island of Berk, the young Viking, Hiccup, wants to join his towns fight against the dragons that continually raid their town. However, his macho father and village leader, Stoik the Vast, will not allow his small, clumsy, but inventive son to do so.</item>
+        <item>Dragon Ball (Japanese: ドラゴンボール, Hepburn: Doragon Bōru) is a Japanese anime television series produced by Toei Animation. It is an adaptation of the first 194 chapters of the manga of the same name created by Akira Toriyama, which were published in Weekly Shōnen Jump from 1984 to 1995.</item>
+        <item>Glass is a 2019 American psychological superhero thriller film written and directed by M. Night Shyamalan, who also produced with Jason Blum, Marc Bienstock, and Ashwin Rajan. Shyamalan set out to write Split using a character he had written for Unbreakable but pulled from its script due to balance issues.</item>
+        <item>Hunter Killer (2018) An untested American submarine captain teams with U.S. Navy Seals to rescue the Russian president, who has been kidnapped by a rogue general.</item>
+        <item>Mary Poppins, fictional character, the heroine of several childrens books by P.L. Travers. Poppins is an efficient, sensible English nanny with magical powers. With humour and good-hearted firmness, she instills in her young charges a sense of wonder, as well as a respect for limits.</item>
+        <item>Mortal Engines is a young-adult science fiction fantasy novel by Philip Reeve, published by Scholastic UK in 2001. The book focuses on a futuristic, steampunk version of London, now a giant machine striving to survive on a world running out of resources.</item>
+        <item>Preman Pensiun adalah film Indonesia tahun 2019 yang diadaptasi dari sebuah sinetron berjudul sama yang pernah tayang di stasiun televisi RCTI. Film ini disutradarai oleh Aris Nugraha yang juga sebagai penulis skenario dan akan diputar perdana pada 17 Januari 2019.</item>
+        <item>Robin Hood is a 2018 American action-adventure film directed by Otto Bathurst and written by Ben Chandler and David James Kelly, from a story by Chandler. It is a quasi-contemporary retelling of the Robin Hood legend, and follows his training by John to steal from the Sheriff of Nottingham.</item>
+        <item>Spider-Man has spider-like abilities including superhuman strength and the ability to cling to most surfaces. He is also extremely agile and has amazing reflexes. Spider-Man also has a “spider sense,” that warns him of impending danger. Spider-Man has supplemented his powers with technology</item>
+        <item>Fired from the National Security Agency, Frans Balder recruits hacker Lisbeth Salander to steal FireWall, a computer programme that can access codes for nuclear weapons worldwide. The download soon draws attention from an NSA agent who traces the activity to Stockholm.</item>
+        <item>The Mule. Clint Eastwoodys “The Mule,” which he directed and stars in, is based on the incredible true story of an octogenarian who became an unlikely drug mule, transporting staggering amounts of cocaine for a major Mexican drug cartel.</item>
+        <item>Venom is a fictional character appearing in American comic books published by Marvel Comics, commonly in association with Spider-Man. The character is a sentient alien Symbiote with an amorphous, liquid-like form, who survives by bonding with a host, usually human.</item>
+    </string-array>
+
+    <array name="movie_poster">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_themule</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+
+    <string-array name="tvshow_title">
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>Dragon Ball</item>
+        <item>Fairytail</item>
+        <item>Family Guy</item>
+        <item>Flash</item>
+        <item>Game of Thrones</item>
+        <item>Gotham</item>
+        <item>Grey Anatomy</item>
+        <item>Hanna</item>
+        <item>Iron Fist</item>
+        <item>Naruto Shippuden</item>
+        <item>NCIS</item>
+        <item>Riverdale</item>
+        <item>Shameless</item>
+        <item>Supergirl</item>
+        <item>Supernatural</item>
+        <item>The Simpson</item>
+        <item>The Umbrella</item>
+        <item>The Walking Dead</item>
+    </string-array>
+
+    <string-array name="tvshow_description">
+        <item>Arrow is an American superhero television series developed by Greg Berlanti, Marc
+            Guggenheim, and Andrew Kreisberg based on the DC Comics character Green Arrow, a
+            costumed crime-fighter created by Mort Weisinger and George Papp, and is set in the
+            Arrowverse, sharing continuity with other Arrowverse television series.
+        </item>
+        <item>Doom Patrol is a team of traumatized and downtrodden superheroes, each of whom has
+            suffered a horrible accident that gave them superhuman abilities but also left them
+            scarred and disfigured.
+        </item>
+        <item>Dragon Ball is a Japanese media franchise created by Akira Toriyama in 1984. The
+            initial manga, written and illustrated by Toriyama, was serialized in Weekly Shōnen Jump
+            from 1984 to 1995, with the 519 individual chapters collected into 42 tankōbon volumes
+            by its publisher Shueisha.
+        </item>
+        <item>Fairy Tail is a Japanese manga series written and illustrated by Hiro Mashima. It was
+            serialized in Kodanshas Weekly Shōnen Magazine from August 2, 2006 to July 26, 2017,
+            with the individual chapters collected and published into 63 tankōbon volumes.
+        </item>
+        <item>Peter Griffin and his family of two teenagers, a smart dog, a devilish baby and his
+            wife find themselves in some of the most hilarious scenarios.
+        </item>
+        <item>Barry Allen, a forensic scientist with the Central City police force, is struck by
+            lightning in a freak accident. When he wakes up after nine months, he discovers that he
+            can achieve great speeds.
+        </item>
+        <item>Nine noble families wage war against each other in order to gain control over the
+            mythical land of Westeros. Meanwhile, a force is rising after millenniums and threatens
+            the existence of living men.
+        </item>
+        <item>Detective James Gordon is a new recruit assigned to investigate the murder of Thomas
+            and Martha Wayne. The case acquaints him with the slain couples son and future
+            crusader, Bruce.
+        </item>
+        <item>Surgical interns and their supervisors embark on a medical journey where they become
+            part of heart-wrenching stories and make life-changing decisions in order to become the
+            finest doctors.
+        </item>
+        <item>Hanna Heller, a 16-year-old raised to be the perfect assassin, is sent on a mission,
+            which takes her across Europe. She is shadowed by an intelligence agent and her team.
+        </item>
+        <item>When Danny Rand was 10-years old, he survived a mysterious plane crash that claimed
+            the lives of his extremely wealthy parents. Rescued by warrior monks, Danny grew up in
+            the of city of Kun-Lun, where he endured harsh conditions, but also trained to be a
+            fierce warrior.
+        </item>
+        <item>More than two years have passed since the most recent adventures in the Hidden Leaf
+            Village, ample time for ninja wannabe Naruto Uzumaki to have developed skills worthy of
+            recognition and respect. The hyperactive youngster has trained extensively with
+            Jiraiya-sama and returned to Konoha.
+        </item>
+        <item>Special Agent Leroy Jethro Gibbs is a skilled investigator. He leads a team of agents
+            of the Naval Criminal Investigative Services Major Case Response Team as they solve
+            intense criminal cases.
+        </item>
+        <item>The picture-perfect atmosphere of Riverdale turns dark after the mysterious death of a
+            student. Archie and his friends try to put the missing pieces together while dealing
+            with their personal issues.
+        </item>
+        <item>Frank Gallagher is the head of a working-class family in Chicago. His six children
+            suffer because he is a heavy drinker and Fiona, the eldest daughter, has to look after
+            everyone in the house.
+        </item>
+        <item>Kara Danvers who is Supermans biological cousin is forced to unveil her hidden powers
+            and protect the inhabitants when an unexpected disaster strikes National City.
+        </item>
+        <item>Brothers Dean and Sam follow in their fathers footsteps and set out to eliminate
+            monsters, demons and other supernatural entities that exist on Earth.
+        </item>
+        <item>Working-class father Homer Simpson and his dysfunctional family deal with comical
+            situations and the ups-and-downs of life in the town of Springfield.
+        </item>
+        <item>On one day in 1989, 43 infants are inexplicably born to random, unconnected women who
+            showed no signs of pregnancy the day before. Seven are adopted by billionaire
+            industrialist Sir Reginald Hargreeves, who creates the Umbrella Academy and prepares his
+            "children" to save the world.
+        </item>
+        <item>A group of survivors led by police officer Rick Grimes travel in search of a safe and
+            secure home after a zombie apocalypse spreads across the USA.
+        </item>
+    </string-array>
+
+    <array name="tvshow_poster">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_god</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_hanna</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_ncis</item>
+        <item>@drawable/poster_riverdale</item>
+        <item>@drawable/poster_shameless</item>
+        <item>@drawable/poster_supergirl</item>
+        <item>@drawable/poster_supernatural</item>
+        <item>@drawable/poster_the_simpson</item>
+        <item>@drawable/poster_the_umbrella</item>
+        <item>@drawable/poster_the_walking_dead</item>
+    </array>
+
+</resources>
